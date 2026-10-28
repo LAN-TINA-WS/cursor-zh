@@ -2374,7 +2374,7 @@
     "Failed to open PR page": "未能打开 PR 页面",
     "Failed to open side chat: parent agent did not load": "未能打开侧边对话：父级智能体未加载",
     "Failed to open the MCP authentication flow.": "未能打开 MCP 认证流程。",
-    "Failed to parse markdown frontmatter.": "未能解析 Markdown 前言。",
+    "Failed to parse markdown frontmatter.": "未能解析 Markdown 文件头元数据。",
     "Failed to parse repository": "未能解析仓库",
     "Failed to push branch": "未能推送分支",
     "Failed to refresh marketplace.": "未能刷新市场。",
